@@ -3,6 +3,7 @@ define([
 	'./AdapterRegistry',
 	'./colors',
 	'./io-query',
+	'./number',
 	'./promise',
 	'./request',
 	'./store',
